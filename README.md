@@ -23,4 +23,4 @@ TensorFlow Lite Micro Hello_World example running on SAMV71 32-bit ARM Cortex-M7
 5. Add code from main_functions.cc to main.cpp as I did to setup and run inference
 6. Set a breakpoint at inference_count increment and watch x, y, and the real answer sin(x) to see how y and sin(x) should match up at each increment
 
-![](https://github.com/andrewbmccullough/SAMV71_TensorFlow_Lite_Micro_Hello_World/blob/main/Documentation/Output.png)
+![Output Image](./documentation/output.png)
